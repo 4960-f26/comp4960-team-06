@@ -34,3 +34,4 @@ You'll create and justify your `.gitignore` in **Lab 1, Part 5** (Path A: an AI 
 Work through the repository handoff checklist posted with the course materials: README current, runs cold from a fresh clone, no secrets in the repo, tests green in CI, ADRs up to date, and known limitations listed. A `LICENSE` is optional for coursework — add one if your team wants.
 
 Gardar, Developer
+Saad, Developers, Bilingual
