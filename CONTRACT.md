@@ -22,8 +22,8 @@ Gardar - 8572106267 - Developer
 <Name the one channel where day-to-day communication actually happens (Discord/Slack/text/etc.) and how
 fast a teammate is expected to respond to a message or review request.>
 
-- Channel:
-- Expected response time:
+- Channel: Messages
+- Expected response time: 30 min
 
 ## Meeting Cadence & Where
 
