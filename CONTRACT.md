@@ -16,6 +16,7 @@ the rotation order for the rest of the semester.>
 - Team name:
 - Members (name — contact — role/rotation):
 - Gardar - 8572106267 - Developer
+- Saad - 339 298 0177 - Developer
 
 ## How We Communicate
 
@@ -68,7 +69,7 @@ by at least one teammate before merging; commit messages use feat:/fix:/refactor
 AI) apply to which kinds of work on this project, consistent with the course's Co-Pilot Model — you own
 everything an AI produces, and no one commits code they don't understand.>
 
-- Category rules by work type:
+- Category rules by work type: Category 2
 - Category 1 log location: `AI_LOG.md` at the repo root (see that file).
 
 ## Falling Behind: How We Handle It
