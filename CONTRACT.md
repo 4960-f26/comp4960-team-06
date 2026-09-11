@@ -60,7 +60,7 @@ happens if that doesn't unstick them. Nobody grinds alone for hours.>
 <Confirm the non-negotiables and add your own: no direct pushes to main; every PR reviewed and approved
 by at least one teammate before merging; commit messages use feat:/fix:/refactor: prefixes.>
 
-- Additional norms:
+- Additional norms: Have a good comment that tells others what you did.
 
 ## AI-Use Agreement
 
