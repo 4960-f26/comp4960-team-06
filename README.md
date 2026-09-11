@@ -35,3 +35,4 @@ Work through the repository handoff checklist posted with the course materials: 
 
 Gardar, Developer
 Saad, Developers, Bilingual
+Chris, Developer, Tennis Player
