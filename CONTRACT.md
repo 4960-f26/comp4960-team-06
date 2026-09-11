@@ -15,6 +15,7 @@ the rotation order for the rest of the semester.>
 
 - Team name:
 - Members (name — contact — role/rotation):
+Gardar - 8572106267 - Developer
 
 ## How We Communicate
 
