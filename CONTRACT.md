@@ -15,7 +15,7 @@ the rotation order for the rest of the semester.>
 
 - Team name:
 - Members (name — contact — role/rotation):
-Gardar - 8572106267 - Developer
+- Gardar - 8572106267 - Developer
 
 ## How We Communicate
 
@@ -30,7 +30,7 @@ fast a teammate is expected to respond to a message or review request.>
 <When and where you meet — in person, a call, an async standup — and how often. Be specific enough that
 "we never actually met" can't happen.>
 
-- Cadence & location:
+- Cadence & location: Will try to meet in person, otherwise a backup is video call and as often as needed for the project.
 
 ## Decision-Making Rule
 
@@ -38,22 +38,22 @@ fast a teammate is expected to respond to a message or review request.>
 decides — and say which kinds of decisions each rule covers. Cover the case that actually comes up most:
 a reviewer and an author disagree about whether a PR is good enough to merge — who makes the final call?>
 
-- Our rule:
+- Our rule: Try to find the best solution together that works best for the project.
 
 ## Definition of Done
 
 <Your shared bar for calling an issue or PR "done" — e.g., tests pass, PR reviewed and approved, merged
 to main, deployed/demoed.>
 
-- Our definition of done:
+- Our definition of done: If feature works as it should and has been tested at least a bit then it's good to deploy to main.
 
 ## "Stuck for 30 Minutes" Rule
 
 <What a teammate does the moment they've been stuck for 30 minutes — who they ping and how — and what
 happens if that doesn't unstick them. Nobody grinds alone for hours.>
 
-- Before 30 minutes:
-- After 30 minutes:
+- Before 30 minutes: Try to figure it out by themselves, problem solve, maybe something online helps.
+- After 30 minutes: Consult team and ask for their opinion.
 
 ## Git & Review Norms
 
